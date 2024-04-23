@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "inbound-lexicon-420912",
+  "private_key_id": "5b56cb6d706966c44e0896bcf7090bc09e1a3192",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDD94UK6ZwbjuqJ\ntgenfTsCMfD0mlj4SjoYMPgxL/7tGR6aUw9HMVzzaHjylq6VicVy5R3cRHDZmV/Y\nQ42CaJ2MGwQMrdqqw2r1cvyCVmYcxHLWYZ0H2dFahjORrwjegqsEtpfz7rzAONSC\nRF542hB7yhFzrZy7wTJ6nY98EhFHOeBLEEklYdzahaxMudsX3EUKxHV6wkrUH3rc\ndC+ugHoyDB1HMnQRVm5ON4bBDLcVO24Iu0MsvceO9QqbdXvbnxu1UUsrdsGZk1IS\nFrj773yYhoAPjQaploaoi+cnTpjyOK56Sc6KlWgJxU/wSWs/biFXw4j84zwC/eD8\ng4WMXSRpAgMBAAECggEAXDbCNTNekR08QlcU3Pyx4sOLZh6nVRbgpXeNot+57uoO\nG4KQQuj4m1WC7Gx5dMai0gD8fyT5kXt5vXN0SHRgBojD7A93QTm5wAw+xDpRzKGo\nhDbkxMf7msRhyeD6pHIKdapScKfby/wyC6aOagH7FbUtZyjAAx3TWh2AYlrCJKhF\nShUJSCosCZPZoM3hbEIClVDLrTIMxKpylqjIAHZoj3RGln51cS7ItTtB+ws4iwvf\nXC9RCRMgehsqVNNYTStnpFDbGKiVK28DzVkoaVMdDj69lNTxk6K+x+phyn5KqlEO\n+dedv/+KBAFHqUhSQ2HP2O/OLGgX21yk6mMRdnxejQKBgQDsOKpDb1nQMFSgF84A\n5FYErfvy+ZwnwVyyjES8neMI3vlGX/GapX0JsetTDd4Ynb0ZiX2uw/pQOXJpGMkH\nA2x3TyOB/+V6ziqLj8WeyoXTrP/ddk1SBMk39FoPIKYeM3GjCPzpk6paRJgrd/qh\nrXJj+TH9IeDFwbM4LKW+uvm1fwKBgQDUYAMHGp8QFCP0fB3D8/VuLqaEOzBdRnNU\nbYslp4bpwDXlHeqK4Ob3Yi5wwslhm87D3Xpqzwyerf7YmN2KTH3Pl6y1F/q4MmJD\n7bN/h5/YxfkcHWQT+DwES4HYQE0B6qKKwBC4+LNWD4cMBtBwXkZS6s2e+srohFgp\nwx/H0VkqFwKBgQC1dp5NaXfcN5R6226UPtRZifI3aEruO1tjid+v6bYj9W4XAtNO\nEnzoerYlOkz4Kgy/VmCnZcOf51GdrL2ZVqb3TGMhlZwK59/FEHAmmLuPraFs1ll1\nfVm6U0rvvgv+vVQ5g0kOgjJmX7VqByQRGXX7mM4u/9x07mUn7RxyVZ5ILwKBgQCf\nnADqh+FfjiNvjRA5wtGDm1/eJTW2BEqM+z8Gb59/ccuPhCpPcbNj3NAWQu5ig1yj\n64IjX7SWVSIg2tI1LEOpjs5n07vET2l2r+ClSeKiYjdUH+qk73z7pVvSkJDPje3W\n5X4r5g2x8j2GlmB08wVbL8iVYNq6YSx5RoJOBFJExQKBgGcTvtDmL31bQffsbzKR\n04x2nHrubbO55MiPQmT+rXFVDvyE6QGWq/hcRwDyrgYqqJLArym85+xmggMleY8a\ntHnA20V2CsQrk4bZeoUHZYZ7JlZrBSUAN3pTGqhcVxoGYhJ4sEIDwZwzzZeEZSTz\niiIEs1nQMwda2AA6XvoY6hdi\n-----END PRIVATE KEY-----\n",
+  "client_email": "jenkins-owner@inbound-lexicon-420912.iam.gserviceaccount.com",
+  "client_id": "104050882288388687592",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jenkins-owner%40inbound-lexicon-420912.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,6 +1,6 @@
 provider "google" {
-  project     = "tcb-project-371706"
-  #credentials = file("tcb-project-371706-b114ce01e529.json")
+  project     = "inbound-lexicon-420912"
+  #credentials = file("inbound-lexicon-420912-5b56cb6d7069.json")
   region      = "us-east1"
 
 }
